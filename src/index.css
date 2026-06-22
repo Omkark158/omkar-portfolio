@@ -353,7 +353,7 @@ button {
 /* ---------- About ---------- */
 .about-grid {
   display: grid;
-  grid-template-columns: 260px 1fr;
+  grid-template-columns: 1fr 340px;
   gap: 48px;
   align-items: start;
 }

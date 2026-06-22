@@ -19,7 +19,7 @@ export default function About() {
                 I'm a full-stack developer (MERN) with a B.Tech in CSE (AI), 2025. I build web applications and enjoy combining web development with machine learning to solve real problems.
               </p>
               <p>
-                I've worked with React, Node.js, MongoDB, and have exposure to Angular, .NET, and SQL Server. Always looking for opportunities to build something meaningful.
+                I've worked with React, Node.js, MongoDB, and have exposure to Angular, .NET, and SQL Server. Comfortable working across the stack and always open to exploring new tools and frameworks.
               </p>
               <div className="about-tags">
                 <span className="tag">Web Development</span>
