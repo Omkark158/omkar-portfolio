@@ -16,16 +16,10 @@ export default function About() {
           <div className="about-grid">
             <div className="about-body">
               <p>
-                <strong>Education:</strong> B.Tech in Computer Science and
-                Engineering (Artificial Intelligence), graduated 2025.
+                I'm a full-stack developer (MERN) with a B.Tech in CSE (AI), 2025. I build web applications and enjoy combining web development with machine learning to solve real problems.
               </p>
               <p>
-                I'm Omkar Kulkarni, a full-stack developer with hands-on
-                experience building web applications on the MERN stack,
-                along with exposure to Angular, .NET, and SQL Server. I
-                enjoy combining web development with machine learning to
-                solve practical problems — from crowd management systems
-                to inventory tracking APIs.
+                I've worked with React, Node.js, MongoDB, and have exposure to Angular, .NET, and SQL Server. Always looking for opportunities to build something meaningful.
               </p>
               <div className="about-tags">
                 <span className="tag">Web Development</span>
