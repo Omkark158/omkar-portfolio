@@ -167,7 +167,7 @@ button {
 /* ---------- Hero ---------- */
 .hero {
   position: relative;
-  padding: 72px 0 96px;
+  padding: 72px 0 128px;
   background-image: radial-gradient(var(--border) 1px, transparent 1.4px);
   background-size: 24px 24px;
   background-position: -6px -6px;
