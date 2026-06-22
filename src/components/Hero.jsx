@@ -14,13 +14,12 @@ export default function Hero() {
           </p>
 
           <div className="hero-actions">
-            {/* FIX: Added target="_blank" and rel="noreferrer" for seamless mobile viewing */}
             <a 
               className="btn" 
               href={links.resume} 
               target="_blank" 
               rel="noreferrer" 
-              download
+              download="OMKAR_KULKARNI_RESUME"
             >
               Download CV
             </a>
