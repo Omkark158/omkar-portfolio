@@ -14,7 +14,14 @@ export default function Hero() {
           </p>
 
           <div className="hero-actions">
-            <a className="btn" href={links.resume} download>
+            {/* FIX: Added target="_blank" and rel="noreferrer" for seamless mobile viewing */}
+            <a 
+              className="btn" 
+              href={links.resume} 
+              target="_blank" 
+              rel="noreferrer" 
+              download
+            >
               Download CV
             </a>
             <a className="btn btn-primary" href="#contact">
