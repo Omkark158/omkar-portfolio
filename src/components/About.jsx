@@ -30,7 +30,7 @@ export default function About() {
               <div className="about-tags">
                 <span className="tag">Web Development</span>
                 <span className="tag">Machine Learning</span>
-                <span className="tag">Full-Stack Engineering</span>
+                <span className="tag">Full-Stack Development</span>
               </div>
             </div>
 
