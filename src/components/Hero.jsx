@@ -15,11 +15,11 @@ export default function Hero() {
 
           <div className="hero-actions">
             <a 
-              className="btn" 
-              href={links.resume} 
-              target="_blank" 
-              rel="noreferrer" 
-              download="OMKAR_KULKARNI_RESUME"
+             className="btn"
+             href="/OMKAR_KULKARNI_RESUME.pdf"  
+             target="_blank"
+             rel="noreferrer"
+             download="OMKAR_KULKARNI_RESUME.pdf"
             >
               Download CV
             </a>
